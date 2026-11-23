@@ -70,7 +70,7 @@ src/
 ├── factories/        Clone factories and LendingAppFactory
 ├── interfaces/       Shared interfaces
 └── lib/              Shared libraries
-test/                 Unit, fuzz, and invariant tests
+test/                 Unit, fuzz, and invariant tests, and a proof-of-concept setup (test/poc)
 ```
 
 ## Getting started
